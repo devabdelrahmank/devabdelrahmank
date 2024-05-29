@@ -1,26 +1,26 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
-<h1 align="center">Hi 👋, I'm Mahmoud Azab</h1>
+<h1 align="center">Hi 👋, I'm Abdelrahman Kamal </h1>
 <h3 align="center">Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazab99&label=Profile%20views&color=0e75b6&style=flat" alt="mazab99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mazap64" target="blank"><img src="https://img.shields.io/twitter/follow/mazap64?logo=twitter&style=for-the-badge" alt="mazap64" /></a> </p>
+<p align="left"> <a href="https://x.com/AbdelRa83024544" target="blank"><img src="https://img.shields.io/twitter/follow/AbdelRa83024544?logo=twitter&style=for-the-badge" alt="AbdelRa83024544" /></a> </p>
 
 - 🔭 I’m currently working on [khodrah](https://play.google.com/store/apps/details?id=sa.desktop.khodrah)
 A
 - 🌱 I’m currently learning **Swift**
 
-- 📫 How to reach me **mazab15499@gmail.com**
+- 📫 How to reach me **5abdo.mo.kamal@gmail.com**
 
 
-- 📫see my portfolio **https://mazab99.github.io/-mahmoud_azab.github.io/#/**
+- 📫see my portfolio **https://github.com/devabdelrahmank**
 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ffGmynm6y4ME0YSl8sUyfFZFmrvbdPrL/view?usp=sharing](https://drive.google.com/file/d/1ffGmynm6y4ME0YSl8sUyfFZFmrvbdPrL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mazap64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazap64" height="30" width="40" /></a>
+<a href="https://twitter.com/AbdelRa83024544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazap64" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mazap64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazap64" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/mahmoud azab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahmoud azab" height="30" width="40" /></a>
 <a href="https://fb.com/mazap64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazap64" height="30" width="40" /></a>
