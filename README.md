@@ -34,16 +34,4 @@ A
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/mazap64H"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mazap64H" /></a></p><br><br>
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=mazab99&theme=minimal"/>
-</p>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazab99&theme=vue"/>
-</p>
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mazab99&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mazab99&theme=vue" />
-</p>
